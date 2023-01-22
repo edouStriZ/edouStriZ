@@ -6,7 +6,7 @@ edouStriZ
 
 * 🖥️  See my portfolio at [my site]()
 * ✉️  You can contact me at [email]()
-* 😎  I'm working on something very, very cool
+* 😎  I'm working on web projects and video games
 
 ### Skills
 
