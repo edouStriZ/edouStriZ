@@ -1,7 +1,7 @@
 Hi 👋 My name is Edouard
 ======================
 
-Front-End developer web
+Front-end web developer
 ---------------------------------------------
 
 * 🌍  I'm based in Phoenix, AZ
