@@ -7,7 +7,6 @@ Front-end web developer
 * 🌍  I'm based in Phoenix, AZ
 * 🖥️  See my portfolio at [my site](http://itsblakearm.com)
 * ✉️  You can contact me at [blake@driftnode.com](mailto:blake@driftnode.com)
-* 🚀  I'm currently working on [Driftnode](http://github.com/driftnode)
 * 😎  I'm working on something very, very cool
 
 ### Skills
