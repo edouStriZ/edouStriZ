@@ -1,7 +1,7 @@
 Hi 👋 My name is Edouard
 ======================
 
-Previous Game Developer turn Engineer
+Front-End developer web
 ---------------------------------------------
 
 * 🌍  I'm based in Phoenix, AZ
