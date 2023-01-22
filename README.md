@@ -5,7 +5,7 @@ Front-end web developer
 ---------------------------------------------
 
 * 🖥️  See my portfolio at [my site]()
-* ✉️  You can contact me at [blake@driftnode.com]()
+* ✉️  You can contact me at [email]()
 * 😎  I'm working on something very, very cool
 
 ### Skills
