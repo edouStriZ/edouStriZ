@@ -1,7 +1,7 @@
-Hi 👋 My name is Edouard
+edouStriZ
 ======================
 
-Front-end web developer
+💻 Front-end web developer
 ---------------------------------------------
 
 * 🖥️  See my portfolio at [my site]()
