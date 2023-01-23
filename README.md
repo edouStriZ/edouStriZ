@@ -4,8 +4,8 @@ edouStriZ
 💻 Front-end web developer
 ---------------------------------------------
 
-* 🖥️  See my portfolio at [my site]()
-* ✉️  You can contact me at [email]()
+* 🖥️  See my portfolio at [my site]() (soon)
+* ✉️  You can contact me at [email]() (soon)
 * 😎  I'm working on web projects and video games
 
 ### Skills
