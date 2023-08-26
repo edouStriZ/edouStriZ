@@ -1,7 +1,7 @@
 edouStriZ
 ======================
 
-💻 Front-end web developer
+💻 Developer
 ---------------------------------------------
 
 * 🖥️  See my portfolio at [my site]() (soon)
