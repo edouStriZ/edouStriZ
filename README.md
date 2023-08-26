@@ -1,4 +1,4 @@
-edouStriZ
+edoustriz
 ======================
 
 💻 Developer
